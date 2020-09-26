@@ -1,2 +1,2 @@
-# Corona-Spread
-it is a nice game. 
+# p5.play-boilerplate
+Boiler plate for p5.play
